@@ -25,5 +25,26 @@
   ],
   "topSongs": "",
   "topArtists": "",
-  "food": ["Fish and chips", "Eccles cake", "Black pudding", "Laverbread", "Cullen skink", "Scotch egg", "Steak and kidney pie", "Yorkshire pudding", "Shepherd's pie", "Toad in the hole", "Bread and butter pudding", "Haggis", "Lancashire hotpot", "Bubble and squeak"]
+  "food": [
+      {
+          "name": "Fish and chips",
+          "image": "https://bhundley.github.io/british-terms/media/fish-chips.jpg",
+          "desc": "Fish and chips are..."
+      },
+      {
+          "name": "Eccles cake",
+          "image": "https://bhundley.github.io/british-terms/media/eccles-cakes.jpg",
+          "desc": "Fish and chips are..."
+      },
+      {
+          "name": "Black pudding",
+          "image": "https://bhundley.github.io/british-terms/media/black-pudding.jpg",
+          "desc": "Fish and chips are..."
+      },
+      {
+          "name": "Laverbread",
+          "image": "https://bhundley.github.io/british-terms/media/Laverbread.jpeg",
+          "desc": "Fish and chips are..."
+      }
+  ]
 }
