@@ -98,7 +98,7 @@
           },
           {
             "name": "Taquito's",
-            "website": "taquitos.co.uk",
+            "website": "http://taquitos.co.uk",
             "address": "78 Wilton Road London SW1V 1DW United Kingdom",
             "type": "Mexican",
             "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Uax5lcAnlTzpPNnBLy7Ecw/o.jpg",
@@ -107,7 +107,7 @@
           },
           {
             "name": "Yalla Yalla",
-            "website": "yalla-yalla.co.uk",
+            "website": "http://yalla-yalla.co.uk",
             "address": "1 Green's Court London W1F 0HA United Kingdom",
             "type": "Middle Eastern",
             "image": "https://s3-media0.fl.yelpcdn.com/bphoto/YUhJPOHNSTEkfxBLA1-E6A/o.jpg",
