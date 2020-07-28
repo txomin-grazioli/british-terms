@@ -66,9 +66,7 @@
             "address": "38 Strutton Ground London SW1P 2HR United Kingdom Westminster",
             "type": "Fish & Chips",
             "image": "https://s3-media0.fl.yelpcdn.com/bphoto/MBM1we-BGvJxxDHyufu10A/o.jpg",
-            "description": "Traditional, family-run Fish & Chip shop, proudly serving a British favourite since 1983. All our fish are freshly
-cooked to order and sourced locally from London's famous Billingsgate Market. Alongside our traditional cod
-and haddock, we also serve traditional pies, sausages, burgers and chicken.",
+            "description": "Traditional, family-run Fish & Chip shop, proudly serving a British favourite since 1983. All our fish are freshly cooked to order and sourced locally from London's famous Billingsgate Market. Alongside our traditional cod and haddock, we also serve traditional pies, sausages, burgers and chicken.",
             "price": "££"
           },
           {
@@ -115,7 +113,7 @@ and haddock, we also serve traditional pies, sausages, burgers and chicken.",
             "image": "https://s3-media0.fl.yelpcdn.com/bphoto/YUhJPOHNSTEkfxBLA1-E6A/o.jpg",
             "description": "Nestled amongst the neon, bright shopfronts and bars of Green's Court a small laneway off Brewer Street in Soho the original Yalla Yalla Beirut Street Food is a hip little restaurant serving Lebanese and Middle Eastern cuisine. Decorated with wooden tables, a black and white colour scheme, with yellow accents and cushions made from vintage scarves this buzzy little restaurant is run by chef/owner Jad Youssef and his wife, Aga, who oversees the front-of-house and the business.",
             "price": "££"
-          },
+          }
         ],
         "activities": [
           {
@@ -162,8 +160,7 @@ and haddock, we also serve traditional pies, sausages, burgers and chicken.",
         "address": "address",
         "type": "Music Tour",
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/c1/4c/f0.jpg",
-        "description": "After meeting outside the ‘Fresh Bake’ shop in South Kensington Station Arcade, South Kensington underground station, we will make our way to Beit Quadrangle where Queen performed their first London gig in 1970. We will then pass the Royal Albert Hall where Freddie was star of the show at Fashion Aid. We will see where the site of Kensington Market was, where Freddie and Roger had a stall. We will move on to location of the legendary BIBA clothes shop, where Mary used to work and was regularly visited by a love-struck Freddie.
-We will see where the apartment where Freddie started to compose Bohemian Rhapsody. We will see a number of addresses associated with the early days of Smile and Queen.We will move on to Garden Lodge, Freddie’s country home in London. We will hear stories of Freddie’s time here.",
+        "description": "After meeting outside the ‘Fresh Bake’ shop in South Kensington Station Arcade, South Kensington underground station, we will make our way to Beit Quadrangle where Queen performed their first London gig in 1970. We will then pass the Royal Albert Hall where Freddie was star of the show at Fashion Aid. We will see where the site of Kensington Market was, where Freddie and Roger had a stall. We will move on to location of the legendary BIBA clothes shop, where Mary used to work and was regularly visited by a love-struck Freddie. We will see where the apartment where Freddie started to compose Bohemian Rhapsody. We will see a number of addresses associated with the early days of Smile and Queen.We will move on to Garden Lodge, Freddie’s country home in London. We will hear stories of Freddie’s time here.",
         "price": "££"
       },
       {
@@ -183,7 +180,7 @@ We will see where the apartment where Freddie started to compose Bohemian Rhapso
         "image": "https://img.theculturetrip.com/1440x960/smart/wp-content/uploads/2018/06/m61jk0.jpg",
         "description": "A must on any London itinerary, the Natural History Museum is one of the city’s best free museums. The levitating skeleton of a blue whale, a dinosaur gallery and even a chunk of Mars are housed in the magnificent Romanesque building. Alongside its permanent displays, the museum hosts morning yoga, after-hours parties and the renowned Wildlife Photographer of the Year exhibition. The museum is situated in South Kensington, a West London neighbourhood known for its regal architecture, eclectic dining and cultural institutions. Below, discover things to do, where to eat and places to stay, with Culture Trip’s guide to rounding out your day when visiting the Natural History Museum.",
         "price": "Free"
-      },
+      }
     ]
 
     },
@@ -210,7 +207,7 @@ We will see where the apartment where Freddie started to compose Bohemian Rhapso
             "image": "http://takkmcr.com/wp-content/uploads/2015/05/DRU3007-470x235.jpg",
             "description": "This Icelandic-themed coffee shop on Tariff Street is the best place to start your morning, whether you’re after a cup of their Icelandic drip coffee, a healthy breakfast or a place to power up your laptop and check your emails. Beloved of the city’s freelancers, the laid-back atmosphere in this light-filled café makes it a welcoming place for a slow start. Order blueberry porridge, eggs three ways or their tasty avocado and bacon sandwich and spend some time people watching.",
             "price": "££"
-          },
+          }
         ],
         "activities": [
           {
@@ -232,7 +229,7 @@ We will see where the apartment where Freddie started to compose Bohemian Rhapso
           "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/25/54/61.jpg",
           "description": "Immerse yourself in the magical world of Harry Potter on this 2.5-hour walking tour around the muggle capital London. Follow in the footsteps of one of the world's most famous fictional wizards as you step into the real Diagon Alley, catch a glimpse of the Leaky Cauldron, pose by the mythical Platform 9¾, and visit other fantastical locations featured in the Harry Potter movies. Hear insider gossip and see some of the city's most famous landmarks as you tour London with a professional guide",
           "price": "£"
-        },
+        }
       ]
     },
     {
