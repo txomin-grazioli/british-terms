@@ -11,7 +11,43 @@
             "type": "hostel or hotel",
             "image": "https://exp.cdn-hotels.com/hotels/1000000/600000/598200/598182/af5f76f2_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
             "description": "Connected by footbridge to Paddington Station, this 4-star Hilton has Art Deco-style rooms and a gym. Hyde Park and Kensington Palace are within 10 minutes’ walking distance.  Guests at the Hilton London Paddington are only 15 minutes journey from Heathrow Airport, via the Heathrow Express train service at Paddington.  The stylish rooms each feature a modern flat-screen TV, a seating area and minibar. There are also luxurious bathrooms, and large windows letting in plenty of natural light.",
-            "price": "pound rating"
+            "price": "££"
+          },
+          {
+            "name": "The W14 Hotel",
+            "website": "https://www.booking.com/hotel/gb/ace.html",
+            "address": " 16-22 Gunterstone Road, Hammersmith and Fulham, London, W14 9BU, United Kingdom",
+            "type": "hotel",
+            "image": "https://exp.cdn-hotels.com/hotels/1000000/600000/598200/598182/af5f76f2_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
+            "description": "The W14 Hotel offers award-winning, 3-star accommodation in London’s Kensington district, just a 5-minute walk from Barons Court and West Kensington Tube stations. This property consists of 4 Victorian town houses and offers free Wi-Fi throughout. Each modern room has climate control and Hypnos beds. The bathrooms have eco-friendly toiletries and a rain shower.",
+            "price": "££"
+          },
+          {
+            "name": "The Brook Green Hotel",
+            "website": "https://www.booking.com/hotel/gb/the-brook-green.html",
+            "address": " 170 Shepherd Bush Road, Hammersmith and Fulham, London, W6 7PB, United Kingdom",
+            "type": "hotel",
+            "image": "https://q-cf.bstatic.com/images/hotel/max1280x900/188/188220056.jpg",
+            "description": "Guests can enjoy a full English breakfast each morning, and hearty evening meals are also available. The cozy pub also features real open fires, leather sofas and a pretty terrace",
+            "price": "££"
+          },
+          {
+            "name": "The London Bridge Hostel",
+            "website": "https://www.st-christophers.co.uk/london/london-bridge-hostel",
+            "address": "161-165 Borough High St, London SE1 1HR, United Kingdom",
+            "type": "hostel",
+            "image": "https://www.hostelworld.com/pwa/hosteldetails.php/St-Christopher-s-Inn-London-Bridge/London/503?from=2020-07-28&to=2020-07-31&guests=2",
+            "description": "Polite and caring staff, clean bathrooms and bedrooms, clean sheets and bed. Good WiFi connection as well. The locker worked and I had a USB port and a lamp right above my bed. Additionally, it is very well located.",
+            "price": "££"
+          },
+          {
+            "name": "YHA London Central",
+            "website": "https://www.yha.org.uk/hostel/yha-london-central",
+            "address": "104 Bolsover Street, London, W1W 5NU",
+            "type": "hostel",
+            "image": "https://hub.yha.org.uk/sites/default/files/styles/lightbox/public/uploads/Hostels/YHA%20London%20Central/2019%20Edited%20Photos/YHA_London_Central_Interior_4_Bed_Bunks_Offset_Angle_2.jpg?itok=N7cN4qzN",
+            "description": "YHA London Central comprises many private and dorm rooms, including 1 x double room, 1x 2 bed bunk room, 30 x 4 bed en-suite bunk, 2 x 4 bed bunk, 12 x 6 bed en-suite bunk, 5 x 6 bed bunk and 5 x 8 bed bunk. We also have a beauty room available for our guests, complete with hair straighteners, hair dryers and an ironing board. All rooms below eight beds can be made private as required and are available as family rooms.",
+            "price": "£"
           },
           {
             "name": "Hilton London Euston",
@@ -20,19 +56,66 @@
             "type": "hostel or hotel",
             "image": "https://exp.cdn-hotels.com/hotels/1000000/10000/2700/2612/8d72c731_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
             "description": "In a magnificent Victorian building, the 4-star Hilton Euston features 2 stylish restaurants and is located just a 5-minute walk from Euston Station.  The elegant bedrooms at Hilton London Euston each have a luxurious marble bathroom with free toiletries. Rooms also feature air conditioning, Wi-Fi access and a TV with on-demand movies.",
-            "price": "pound rating"
+            "price": "££"
           }
         ],
         "food": [
           {
-            "name": "resturant name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of food",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
+            "name": "Laughing Halibut",
+            "website": "https://www.yelp.com/biz/laughing-halibut-london?osq=Restaurants",
+            "address": "38 Strutton Ground London SW1P 2HR United Kingdom Westminster",
+            "type": "Fish & Chips",
+            "image": "https://s3-media0.fl.yelpcdn.com/bphoto/MBM1we-BGvJxxDHyufu10A/o.jpg",
+            "description": "Traditional, family-run Fish & Chip shop, proudly serving a British favourite since 1983. All our fish are freshly
+cooked to order and sourced locally from London's famous Billingsgate Market. Alongside our traditional cod
+and haddock, we also serve traditional pies, sausages, burgers and chicken.",
+            "price": "££"
+          },
+          {
+            "name": "Dishoom",
+            "website": "https://www.yelp.com/biz/dishoom-london?osq=Restaurants",
+            "address": "12 Upper Saint Martin's Lane London WC2H 9FB United Kingdom Covent Garden",
+            "type": "Indian",
+            "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Sp_AmpAh94QDMZO9uBHjWQ/o.jpg",
+            "description": "We dined here after many recommendations from friends far and wide.  Locals and tourists both see this one as a favorite.  The entrance can be a little daunting.  There is a hostess outside you check in with and then wait in an outdoor line.  Then you are brought downstairs to the bar area to have cocktails and wait.  The wait was long but well worth it.  We dined on everything our server recommended and more.  It was my first time trying Indian food and I loved it!  The service was quick as they are used to taking care of many people at once and the food was delicious.  It is tapas style so I would recommend 2 items per person, and to share family style.",
+            "price": "££"
+          },
+          {
+            "name": "Shoryu Ramen",
+            "website": "https://www.yelp.com/biz/shoryu-ramen-london?osq=Restaurants",
+            "address": "9 Regent Street London SW1Y 4LR United Kingdom St James's",
+            "type": "Japanese",
+            "image": "https://s3-media0.fl.yelpcdn.com/bphoto/7eKeLzkX-Foe6PVeHSrZnQ/o.jpg",
+            "description": "This was a wonderful ramen experience. The food was delicious, and the beer was cold. I took the waiters advice on everything I ordered, so I can't tell you the name of any of it, but it was delicious. They provided a bib, which is something I'm not accustomed to, but found very useful, as I tend to get broth on my shirt when slurping ramen.",
+            "price": "££"
+          },
+          {
+            "name": "Byron",
+            "website": "https://www.byron.co/Menu",
+            "address": "97-99 Wardour Street London W1F 0UD United Kingdom",
+            "type": "Burgers",
+            "image": "https://s3-media0.fl.yelpcdn.com/bphoto/9HXEeYUh0QA1b9Bf4pDWVg/o.jpg",
+            "description": "Great casual burger place in London! A former London native took us here, because it was one of his favorite casual eateries in London! The burgers were of a good size and very delicious! They also had a good selection of local beers and ciders! Burgers come a la carte so make sure to order a side!",
+            "price": "££"
+          },
+          {
+            "name": "Taquito's",
+            "website": "taquitos.co.uk",
+            "address": "78 Wilton Road London SW1V 1DW United Kingdom",
+            "type": "Mexican",
+            "image": "https://s3-media0.fl.yelpcdn.com/bphoto/Uax5lcAnlTzpPNnBLy7Ecw/o.jpg",
+            "description": "This place is delicious! As someone from Southern California & Latina who is also a very picky eater I really enjoyed this place! Food was delicious the staff was so friendly! Can't say enough about this place! Definitely will stop by again before I leave London. Please please stop by, you won't be disappointed!",
+            "price": "£"
+          },
+          {
+            "name": "Yalla Yalla",
+            "website": "yalla-yalla.co.uk",
+            "address": "1 Green's Court London W1F 0HA United Kingdom",
+            "type": "Middle Eastern",
+            "image": "https://s3-media0.fl.yelpcdn.com/bphoto/YUhJPOHNSTEkfxBLA1-E6A/o.jpg",
+            "description": "Nestled amongst the neon, bright shopfronts and bars of Green's Court a small laneway off Brewer Street in Soho the original Yalla Yalla Beirut Street Food is a hip little restaurant serving Lebanese and Middle Eastern cuisine. Decorated with wooden tables, a black and white colour scheme, with yellow accents and cushions made from vintage scarves this buzzy little restaurant is run by chef/owner Jad Youssef and his wife, Aga, who oversees the front-of-house and the business.",
+            "price": "££"
+          },
         ],
         "activities": [
           {
@@ -47,14 +130,61 @@
         ],
         "attractions": [
           {
-          "name": "attraction name",
-          "website": "website name",
-          "address": "address",
-          "type": "type of attraction",
-          "image": "image",
-          "description": "description",
-          "price": "pound rating"
-        }]
+          "name": "The Harry Potter's Walking Tour of London",
+          "website": "https://theculturetrip.com/europe/united-kingdom/england/london/experiences/5227POTTER",
+          "address": "TKTS, The Lodge, Leicester Square, West End, London WC2H 7DE, UK",
+          "type": "Walking/Tour",
+          "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/25/54/61.jpg",
+          "description": "Immerse yourself in the magical world of Harry Potter on this 2.5-hour walking tour around the muggle capital London. Follow in the footsteps of one of the world's most famous fictional wizards as you step into the real Diagon Alley, catch a glimpse of the Leaky Cauldron, pose by the mythical Platform 9¾, and visit other fantastical locations featured in the Harry Potter movies. Hear insider gossip and see some of the city's most famous landmarks as you tour London with a professional guide",
+          "price": "£"
+        },
+      {
+        "name": "Big Ben and the Houses of Parliament",
+        "website": "",
+        "address": "Westminster, London, England, SW1A 0AA, United Kingdom",
+        "type": "Historical Landmark",
+        "image": "https://cdn.theculturetrip.com/wp-content/uploads/2017/07/big-ben-london-neurotic_buddhaflickr-940x627.jpg",
+        "description": "The Elizabeth Tower is one of the most recognisable symbols of London. Commonly called Big Ben, which actually refers to the bell in the clock tower, it is not open to the public, but visitors can head inside the Houses of Parliament for a guided tour around the Royal Gallery and Chamber of Commons; there is also the option to add afternoon tea to the tour for a truly British experience. Specialised tours are also available for families, and tactile tours are offered to blind and partially sighted visitors.",
+        "price": "Free"
+      },
+      {
+        "name": "Watch the Changing of the Guard at Buckingham Palace",
+        "website": "https://www.royalcollection.org.uk/visit/the-state-rooms-buckingham-palace",
+        "address": "https://maps.google.com/?cid=731461058599387815",
+        "type": "Walking",
+        "image": "https://cdn.theculturetrip.com/wp-content/uploads/2015/07/jctp0077-westminster-london-england-cauli-6-750x500.jpg",
+        "description": "Buckingham Palace is the official London residence of the British royal family. Although it’s used by the monarchy for most of the year, during August and September the Queen stays at her Balmoral residence and in her absence the palace is open for tours. Watching the Changing of the Guard, officially known as the Guard Mounting, is popular with tourists, who flock to the ceremony all year round. The exchange is carried out on the palace forecourt and lasts for around 45 minutes. It takes place every day in summer and every other day in winter, at 11.30am. The event is a real tradition in London, and it’s well worth a watch if you can get close enough to the palace gates.",
+        "price": "Free"
+      },
+      {
+        "name": "Freddie Mercury and Queen. The London tour",
+        "website": "https://theculturetrip.com/europe/united-kingdom/england/london/experiences/140690P14",
+        "address": "address",
+        "type": "Music Tour",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/c1/4c/f0.jpg",
+        "description": "After meeting outside the ‘Fresh Bake’ shop in South Kensington Station Arcade, South Kensington underground station, we will make our way to Beit Quadrangle where Queen performed their first London gig in 1970. We will then pass the Royal Albert Hall where Freddie was star of the show at Fashion Aid. We will see where the site of Kensington Market was, where Freddie and Roger had a stall. We will move on to location of the legendary BIBA clothes shop, where Mary used to work and was regularly visited by a love-struck Freddie.
+We will see where the apartment where Freddie started to compose Bohemian Rhapsody. We will see a number of addresses associated with the early days of Smile and Queen.We will move on to Garden Lodge, Freddie’s country home in London. We will hear stories of Freddie’s time here.",
+        "price": "££"
+      },
+      {
+        "name": "Downton Abbey and Oxford Tour from London Including Highclere Castle",
+        "website": "https://theculturetrip.com/europe/united-kingdom/england/london/experiences/2452DOWNTONe",
+        "address": "Victoria Coach Station, Belgravia, London SW1W 9RH, UK",
+        "type": "Film Tour",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/77/93/3e.jpg",
+        "description": "See top filming locations from the award-winning ‘Downton Abbey’ television series on a full-day tour from London! After touring Oxford, enjoy a walking tour around Bampton Village, the setting used for filming outdoor scenes in the show. Then, head to Highclere Castle in Hampshire, home of the real Downton Abbey, for a tour. Offering a real insight into Edwardian England, the tour gives you all the insider gossip about popular characters from the much-loved period drama as well as stories of the real family who have owned the castle since its 17th-century heyday. This tour has limited availability and sells out fast, so book now to avoid disappointment!",
+        "price": "£££"
+      },
+      {
+        "name": "The Natural History Museum",
+        "website": "https://www.nhm.ac.uk/",
+        "address": "Cromwell Road London SW7 5BD",
+        "type": "Museum",
+        "image": "https://img.theculturetrip.com/1440x960/smart/wp-content/uploads/2018/06/m61jk0.jpg",
+        "description": "A must on any London itinerary, the Natural History Museum is one of the city’s best free museums. The levitating skeleton of a blue whale, a dinosaur gallery and even a chunk of Mars are housed in the magnificent Romanesque building. Alongside its permanent displays, the museum hosts morning yoga, after-hours parties and the renowned Wildlife Photographer of the Year exhibition. The museum is situated in South Kensington, a West London neighbourhood known for its regal architecture, eclectic dining and cultural institutions. Below, discover things to do, where to eat and places to stay, with Culture Trip’s guide to rounding out your day when visiting the Natural History Museum.",
+        "price": "Free"
+      },
+    ]
 
     },
     {
@@ -63,24 +193,24 @@
         "lodging": [
           {
             "name": "hostel name",
-            "website": "website name",
-            "address": "address",
-            "type": "hostel or hotel",
-            "image": "image",
+            "website": "https://www.tripadvisor.com/Hotel_Review-g187069-d209369-Reviews-Jurys_Inn_Manchester-Manchester_Greater_Manchester_England.html",
+            "address": "56 Great Bridgewater Street, Manchester M1 5LE England",
+            "type": "hotel",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/b9/2e/6a/guest-room.jpg",
             "description": "description",
             "price": "pound rating"
           }
         ],
         "food": [
           {
-            "name": "resturant name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of food",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
+            "name": "TAKK",
+            "website": "http://takkmcr.com/",
+            "address": "Takk Coffee House 6 Tariff Street Manchester M1 2FF",
+            "type": "Cafe",
+            "image": "http://takkmcr.com/wp-content/uploads/2015/05/DRU3007-470x235.jpg",
+            "description": "This Icelandic-themed coffee shop on Tariff Street is the best place to start your morning, whether you’re after a cup of their Icelandic drip coffee, a healthy breakfast or a place to power up your laptop and check your emails. Beloved of the city’s freelancers, the laid-back atmosphere in this light-filled café makes it a welcoming place for a slow start. Order blueberry porridge, eggs three ways or their tasty avocado and bacon sandwich and spend some time people watching.",
+            "price": "££"
+          },
         ],
         "activities": [
           {
@@ -95,14 +225,15 @@
         ],
         "attractions": [
           {
-          "name": "attraction name",
-          "website": "website name",
-          "address": "address",
-          "type": "type of attraction",
-          "image": "image",
-          "description": "description",
-          "price": "pound rating"
-        }]
+          "name": "The Harry Potter's Walking Tour of London",
+          "website": "https://theculturetrip.com/europe/united-kingdom/england/london/experiences/5227POTTER",
+          "address": "Delamere Road, Frodsham, United Kingdom",
+          "type": "Walking/Tour",
+          "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/25/54/61.jpg",
+          "description": "Immerse yourself in the magical world of Harry Potter on this 2.5-hour walking tour around the muggle capital London. Follow in the footsteps of one of the world's most famous fictional wizards as you step into the real Diagon Alley, catch a glimpse of the Leaky Cauldron, pose by the mythical Platform 9¾, and visit other fantastical locations featured in the Harry Potter movies. Hear insider gossip and see some of the city's most famous landmarks as you tour London with a professional guide",
+          "price": "£"
+        },
+      ]
     },
     {
         "name": "Edinburgh",
