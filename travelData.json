@@ -11,14 +11,14 @@
             "type": "hostel or hotel",
             "image": "https://exp.cdn-hotels.com/hotels/1000000/600000/598200/598182/af5f76f2_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
             "description": "Connected by footbridge to Paddington Station, this 4-star Hilton has Art Deco-style rooms and a gym. Hyde Park and Kensington Palace are within 10 minutes’ walking distance.  Guests at the Hilton London Paddington are only 15 minutes journey from Heathrow Airport, via the Heathrow Express train service at Paddington.  The stylish rooms each feature a modern flat-screen TV, a seating area and minibar. There are also luxurious bathrooms, and large windows letting in plenty of natural light.",
-            "price": "££"
+            "price": "£££"
           },
           {
             "name": "The W14 Hotel",
             "website": "https://www.booking.com/hotel/gb/ace.html",
             "address": " 16-22 Gunterstone Road, Hammersmith and Fulham, London, W14 9BU, United Kingdom",
             "type": "hotel",
-            "image": "https://exp.cdn-hotels.com/hotels/1000000/600000/598200/598182/af5f76f2_z.jpg?impolicy=fcrop&w=773&h=530&q=high",
+            "image": "https://q-cf.bstatic.com/images/hotel/max1280x900/436/43625905.jpg",
             "description": "The W14 Hotel offers award-winning, 3-star accommodation in London’s Kensington district, just a 5-minute walk from Barons Court and West Kensington Tube stations. This property consists of 4 Victorian town houses and offers free Wi-Fi throughout. Each modern room has climate control and Hypnos beds. The bathrooms have eco-friendly toiletries and a rain shower.",
             "price": "££"
           },
@@ -298,6 +298,7 @@
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/1c/2b/17.jpg",
         "description": "Prepare to be scared silly on a 1-hour ghost bus tour around Edinburgh’s ghoulish haunts. Under the guidance of a creepy onboard conductor, cruise around Edinburgh’s most terrifying and impressive sights, such as Greyfriars Kirk, Edinburgh Castle and the Royal Mile. Ride in a double-decker 'Routemaster' vintage bus and feel your hairs stand on end as you hear shocking tales of grisly executions, unspeakable tortures and grim grave robbers. Discover the city’s sinister side and steel yourself for some frights on board.",
         "price": "£"
-        }
-      ]
-   }
+        } ]
+      }
+    ]
+    }
