@@ -291,13 +291,13 @@
           "price": "£"
         },
         {
-        "name": "Ghost Bus Tour of Edinburgh",
-        "website": "https://theculturetrip.com/europe/united-kingdom/scotland/edinburgh/experiences/6743EDI",
-        "address": "435 Lawnmarket, Edinburgh EH1 2NT, UK",
-        "type": "Bus Tour",
+        "name": "Castles",
+        "website": "",
+        "address": "you'll find some",
+        "type": "walk",
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/1c/2b/17.jpg",
-        "description": "Prepare to be scared silly on a 1-hour ghost bus tour around Edinburgh’s ghoulish haunts. Under the guidance of a creepy onboard conductor, cruise around Edinburgh’s most terrifying and impressive sights, such as Greyfriars Kirk, Edinburgh Castle and the Royal Mile. Ride in a double-decker 'Routemaster' vintage bus and feel your hairs stand on end as you hear shocking tales of grisly executions, unspeakable tortures and grim grave robbers. Discover the city’s sinister side and steel yourself for some frights on board.",
-        "price": "£"
+        "description": "go see some sick castles",
+        "price": "free"
         } ]
       }
     ]
