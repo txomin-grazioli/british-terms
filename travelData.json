@@ -115,17 +115,6 @@
             "price": "££"
           }
         ],
-        "activities": [
-          {
-            "name": "attraction name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of activities",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
         "attractions": [
           {
           "name": "The Harry Potter's Walking Tour of London",
@@ -189,13 +178,22 @@
         "image": "https://bhundley.github.io/british-terms/media/cities/manchester.jpg",
         "lodging": [
           {
-            "name": "hostel name",
+            "name": "Jurys Inn Manchester",
             "website": "https://www.tripadvisor.com/Hotel_Review-g187069-d209369-Reviews-Jurys_Inn_Manchester-Manchester_Greater_Manchester_England.html",
             "address": "56 Great Bridgewater Street, Manchester M1 5LE England",
             "type": "hotel",
             "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/b9/2e/6a/guest-room.jpg",
-            "description": "description",
-            "price": "pound rating"
+            "description": "Jurys Inn Manchester offers 265 new stylish and spacious bedrooms including free high speed WiFi, air conditioning, generous work desk area with an ergonomic chair, bespoke DREAM bed by Jurys Inn, 42” flat screen TV with Free View.",
+            "price": "££"
+          },
+          {
+            "name": "YHA Manchester",
+            "website": "https://www.hostelworld.com/pwa/hosteldetails.php/YHA-Manchester/Manchester/5879?from=2020-07-29&to=2020-08-01&guests=2",
+            "address": "https://www.google.com/maps/search/?api=1&query=YHA+Manchester%2C%20Potato+Wharf%2C+Castlefield%2C+Manchester%2C+M3+4NB",
+            "type": "hostel",
+            "image": "https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/5/5879/5010.jpg",
+            "description": "Just 10 minutes’ walk from central Manchester, the YHA hostel boasts a café bar, regular film nights in its cinema room, a canal side restaurant, and free parking (subject to availability). With a 24-hour front desk, the property provides a lovely buffet breakfast each morning for just £6.25 and free Wi-Fi in public areas.",
+            "price": "£"
           }
         ],
         "food": [
@@ -207,218 +205,99 @@
             "image": "http://takkmcr.com/wp-content/uploads/2015/05/DRU3007-470x235.jpg",
             "description": "This Icelandic-themed coffee shop on Tariff Street is the best place to start your morning, whether you’re after a cup of their Icelandic drip coffee, a healthy breakfast or a place to power up your laptop and check your emails. Beloved of the city’s freelancers, the laid-back atmosphere in this light-filled café makes it a welcoming place for a slow start. Order blueberry porridge, eggs three ways or their tasty avocado and bacon sandwich and spend some time people watching.",
             "price": "££"
-          }
-        ],
-        "activities": [
+          },
           {
-            "name": "attraction name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of activities",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
+            "name": "Albert's Schloss",
+            "website": "http://albertsschloss.co.uk",
+            "address": "27 Peter Street Manchester M2 5QR United Kingdom",
+            "type": "German/Czech/Bar",
+            "image": "http://takkmcr.com/wp-content/uploads/2015/05/DRU3007-470x235.jpg",
+            "description": "The food was fantastic (particularly the beef roast and truffle pizza), and the atmosphere cannot be beat.  The inside of the restaurant is decorated in a very warm, woodsy feel with warm lighting, a dining area, a bar, and a dance area with a DJ.  However, Albert's Schloss really shouldn't be characterized as a club venue or a rowdy bar.  The music was at an appropriate volume and the few dancers were sort of just swaying among their tables, creating a relaxed feel.",
+            "price": "££"
           }
         ],
         "attractions": [
           {
-          "name": "The Harry Potter's Walking Tour of London",
-          "website": "https://theculturetrip.com/europe/united-kingdom/england/london/experiences/5227POTTER",
-          "address": "Delamere Road, Frodsham, United Kingdom",
-          "type": "Walking/Tour",
+          "name": "The Lamps",
+          "website": "https://theculturetrip.com/europe/united-kingdom/articles/playfully-oversized-lamps-capture-soul-of-manchester/",
+          "address": "Piccadilly Place, Manchester M1 3BN, United Kingdom",
+          "type": "Art",
           "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/25/54/61.jpg",
-          "description": "Immerse yourself in the magical world of Harry Potter on this 2.5-hour walking tour around the muggle capital London. Follow in the footsteps of one of the world's most famous fictional wizards as you step into the real Diagon Alley, catch a glimpse of the Leaky Cauldron, pose by the mythical Platform 9¾, and visit other fantastical locations featured in the Harry Potter movies. Hear insider gossip and see some of the city's most famous landmarks as you tour London with a professional guide",
-          "price": "£"
-        }
-      ]
+          "description": "A handful of playful, oversized lamps has appeared in Manchester’s Piccadilly Place, with each one marking significant eras of local historical innovation in the city.",
+          "price": "Free"
+        },
+        {
+        "name": "Manchester Cathedral",
+        "website": "http://www.manchestercathedral.org/",
+        "address": "Victoria St, Manchester M3 1SX, United Kingdom",
+        "type": "Walk",
+        "image": "https://i0.wp.com/handluggageonly.co.uk/wp-content/uploads/2019/07/Hand-Luggage-Only-19-1.jpg?w=1600&ssl=1",
+        "description": "The official name is actually “The Cathedral and Collegiate Church of St Mary, St Denys and St George” and is one amazing sight that needs to be seen in the city. It’s well worth a wander around to see the gorgeous architecture, especially as it has been so well preserved. ",
+        "price": "Free"
+      }
+    ]
     },
     {
         "name": "Edinburgh",
         "image": "https://bhundley.github.io/british-terms/media/cities/edinburgh.jpg",
         "lodging": [
           {
-            "name": "hostel name",
-            "website": "website name",
-            "address": "address",
-            "type": "hostel or hotel",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
+            "name": "Stay Central Hotel",
+            "website": "https://theculturetrip.com/europe/united-kingdom/bookable/stay-central-hotel/",
+            "address": "https://maps.google.com/?cid=11720327863693297500",
+            "type": "hotel",
+            "image": "https://img.theculturetrip.com/1024x682/smart/wp-content/uploads/2019/06/bd750669_z.jpg",
+            "description": "Make yourself at home in one of the 37 air-conditioned rooms featuring iPod docking stations and LCD televisions. Complimentary wireless Internet access is available to keep you connected. Private bathrooms with showers feature rainfall showerheads and designer toiletries. Conveniences include safes and desks, and housekeeping is provided daily.",
+            "price": "£££"
+          },
+          {
+            "name": "CoDE Pod Hostels",
+            "website": "https://www.codehostels.com/booking/?city=Edinburgh&date__from=2020-07-28&date__to=2020-07-29",
+            "address": "https://www.google.com/maps/search/?api=1&query=50+Rose+Street+North+Lane%2C+Edinburgh+EH2",
+            "type": "hostel",
+            "image": "https://cloudbeds-live.s3.us-west-2.amazonaws.com/uploads/553/20191123_code_hostels_the-loft_high_res-2~~5de62911eb212.jpg",
+            "description": "The building where it all started! You’ll find this cosy boutique hostel right in the heart of Edinburgh’s New Town. On Rose Street you'll find plenty of cool cafe's, bars and restaurants. New Town is perfectly situated between Old Town (5 min walk) and Stockbridge (10 min walk). Princes street is less than a minute away for most bus connections and is the main shopping street in Edinburgh! ",
+            "price": "££"
           }
         ],
         "food": [
           {
-            "name": "resturant name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of food",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "activities": [
+            "name": "Royal Mile",
+            "website": "http://www.royalmcgregor.co.uk/",
+            "address": "https://maps.google.com/?cid=7146711740646498447",
+            "type": "Traditional Scottish",
+            "image": "https://img.theculturetrip.com/1440x960/smart/wp-content/uploads/2018/03/1925925.jpg",
+            "description": "It would be impossible to talk about traditional Scottish food in Edinburgh without mentioning the Royal Mile, the area from Holyrood Palace to Edinburgh Castle crowded with all manner of Scottish stores and restaurants. Relatively new for Edinburgh pubs, the Royal McGregor has established itself over its 10 years as a friendly, comfortable place to catch a meal. Its haggis options are particularly enticing. As a starter, there are haggis fritters with sweet chilli and honey dressing, and for a main course, you can try the Highland burger with haggis and whisky sauce.",
+            "price": "££"
+          },
           {
-            "name": "attraction name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of activities",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "attractions": [
-          {
-          "name": "attraction name",
-          "website": "website name",
-          "address": "address",
-          "type": "type of attraction",
-          "image": "image",
-          "description": "description",
-          "price": "pound rating"
-        }]
-    },
-    {
-        "name": "Liverpool",
-        "image": "https://bhundley.github.io/british-terms/media/cities/liverpool.jpg",
-        "lodging": [
-          {
-            "name": "hostel name",
-            "website": "website name",
-            "address": "address",
-            "type": "hostel or hotel",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "food": [
-          {
-            "name": "resturant name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of food",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "activities": [
-          {
-            "name": "attraction name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of activities",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
+            "name": "Mary's Milk Bar",
+            "website": "https://www.marysmilkbar.com/",
+            "address": "19 Grassmarket, Edinburgh, Scotland, EH1 2HS, United Kingdom",
+            "type": "Cafe",
+            "image": "https://img.theculturetrip.com/1024x682/smart/wp-content/uploads/2018/03/1928700.jpg",
+            "description": "For unrivaled milkshakes and perfect gelato, look no further than Mary’s Milk Bar, a dessert paradise on the brink of turning into a sweet-tooth cult headquarters. The combined skill of Mary, a graduate of Caprigiani Gelato University in Italy, and the sweeping array of sumptuous choices make this spot a no brainer. From almost sinful sundaes and centre-filled chocolates to unfathomable hot chocolate floats, even one taste of Mary’s Milk Bar is the sweetest spiritual experience. All in all, a welcomed nod to the popular cultural trend of milk bars back in the day.",
+            "price": "£"
           }
         ],
         "attractions": [
           {
-          "name": "attraction name",
-          "website": "website name",
-          "address": "address",
-          "type": "type of attraction",
-          "image": "image",
-          "description": "description",
-          "price": "pound rating"
-        }]
-    },
-    {
-        "name": "Bristol",
-        "image": "https://bhundley.github.io/british-terms/media/cities/bristol.jpg",
-        "lodging": [
-          {
-            "name": "hostel name",
-            "website": "website name",
-            "address": "address",
-            "type": "hostel or hotel",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "food": [
-          {
-            "name": "resturant name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of food",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "activities": [
-          {
-            "name": "attraction name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of activities",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "attractions": [
-          {
-          "name": "attraction name",
-          "website": "website name",
-          "address": "address",
-          "type": "type of attraction",
-          "image": "image",
-          "description": "description",
-          "price": "pound rating"
-        }]
-    },
-    {
-        "name": "Glasgow",
-        "image": "https://bhundley.github.io/british-terms/media/cities/glasgow.jpg",
-        "lodging": [
-          {
-            "name": "hostel name",
-            "website": "website name",
-            "address": "address",
-            "type": "hostel or hotel",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "food": [
-          {
-            "name": "resturant name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of food",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "activities": [
-          {
-            "name": "attraction name",
-            "website": "website name",
-            "address": "address",
-            "type": "type of activities",
-            "image": "image",
-            "description": "description",
-            "price": "pound rating"
-          }
-        ],
-        "attractions": [
-          {
-          "name": "attraction name",
-          "website": "website name",
-          "address": "address",
-          "type": "type of attraction",
-          "image": "image",
-          "description": "description",
-          "price": "pound rating"
-        }]
-    }
-  ]
-}
+          "name": "Ghost Bus Tour of Edinburgh",
+          "website": "https://theculturetrip.com/europe/united-kingdom/scotland/edinburgh/experiences/6743EDI",
+          "address": "435 Lawnmarket, Edinburgh EH1 2NT, UK",
+          "type": "Bus Tour",
+          "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/1c/2b/17.jpg",
+          "description": "Prepare to be scared silly on a 1-hour ghost bus tour around Edinburgh’s ghoulish haunts. Under the guidance of a creepy onboard conductor, cruise around Edinburgh’s most terrifying and impressive sights, such as Greyfriars Kirk, Edinburgh Castle and the Royal Mile. Ride in a double-decker 'Routemaster' vintage bus and feel your hairs stand on end as you hear shocking tales of grisly executions, unspeakable tortures and grim grave robbers. Discover the city’s sinister side and steel yourself for some frights on board.",
+          "price": "£"
+        },
+        {
+        "name": "Ghost Bus Tour of Edinburgh",
+        "website": "https://theculturetrip.com/europe/united-kingdom/scotland/edinburgh/experiences/6743EDI",
+        "address": "435 Lawnmarket, Edinburgh EH1 2NT, UK",
+        "type": "Bus Tour",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/1c/2b/17.jpg",
+        "description": "Prepare to be scared silly on a 1-hour ghost bus tour around Edinburgh’s ghoulish haunts. Under the guidance of a creepy onboard conductor, cruise around Edinburgh’s most terrifying and impressive sights, such as Greyfriars Kirk, Edinburgh Castle and the Royal Mile. Ride in a double-decker 'Routemaster' vintage bus and feel your hairs stand on end as you hear shocking tales of grisly executions, unspeakable tortures and grim grave robbers. Discover the city’s sinister side and steel yourself for some frights on board.",
+        "price": "£"
+        }
+      ]
+   }
